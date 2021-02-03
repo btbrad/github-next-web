@@ -1,0 +1,29 @@
+{
+  "name": "github-next-web",
+  "version": "1.0.0",
+  "description": "a next.js github web app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btbrad/github-next-web.git"
+  },
+  "keywords": [
+    "next.js"
+  ],
+  "author": "biantaobrad@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btbrad/github-next-web/issues"
+  },
+  "homepage": "https://github.com/btbrad/github-next-web#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  }
+}
