@@ -9,6 +9,9 @@ logs
 **/*.backup.*
 **/*.back.*
 
+### next.js ###
+.next
+
 node_modules
 bower_components
 

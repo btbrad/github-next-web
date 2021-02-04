@@ -62,7 +62,7 @@ var _this = undefined,
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!**************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fbt%2FDocuments%2Fcode%2Fgithub-next-web%2Fpages%2Findex.js ***!
   \**************************************************************************************************************************************/
@@ -85,5 +85,5 @@ module.exports = dll_ee1b1af71b1d5f9cb451;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
