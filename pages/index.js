@@ -1,3 +1,7 @@
-import '../test.css'
+import { Button } from 'antd'
 
-export default () => <h1>Hello Next.js</h1>
+export default () => (
+  <div>
+    <Button>Hello Next.js</Button>
+  </div>
+)
